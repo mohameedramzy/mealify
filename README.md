@@ -4,7 +4,7 @@ Welcome to **Mealify**, a modern and interactive restaurant landing page designe
 
 ## 🌍 Live Demo
 
-Check out the project live: [Mealify Website](https://mealify-theta-eight.vercel.app/)
+Check out the project live: [Mealify Website](https://mealify-w55s.vercel.app/)
 
 ## 📌 Features
 
