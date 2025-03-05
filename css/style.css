@@ -566,15 +566,20 @@ img:hover.shake {
 }
 
 .box-three .ic-one,
-.box-three .ic-two,
-.box-three .ic-three {
+.box-three .ic-two {
   width: 49%;
   padding: 15px;
   color: var(--background-color);
 }
 
+.box-three .ic-three{
+  width: 99%;
+  padding: 15px;
+  color: var(--background-color);
+}
+
 .box-three textarea {
-  width: 100%;
+  width: 99%;
   padding: 15px;
 }
 
